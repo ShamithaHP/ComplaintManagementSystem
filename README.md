@@ -12,12 +12,6 @@ This project demonstrates the use of **SQL (Structured Query Language)** to mana
 - Aggregate data using `GROUP BY`, `HAVING`, `ORDER BY`  
 - Utilize `JOIN` operations for multi-table queries
 
-## 📁 Files Included
-
-- `schema.sql` – Table creation scripts  
-- `data.sql` – Sample data insertion  
-- `queries.sql` – Common SQL queries and operations  
-
 ## 🧰 Technologies Used
 
 - SQL  
