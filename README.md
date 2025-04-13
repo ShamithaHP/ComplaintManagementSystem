@@ -31,10 +31,3 @@ This project demonstrates the use of **SQL (Structured Query Language)** to mana
 4. Run `data.sql` to insert sample records  
 5. Explore `queries.sql` for SQL operations
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize it according to your project! Want help writing the actual SQL queries too?
